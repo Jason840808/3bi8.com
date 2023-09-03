@@ -29,3 +29,11 @@ hr.sepBar {
     border: black solid 2px;
     margin: 3px;
 }
+span.midCup {
+    font-size: 55px;
+    float: right;
+}
+span.bigCup {
+    font-size: 65px;
+    float: right;
+}
