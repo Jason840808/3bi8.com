@@ -1,0 +1,31 @@
+button.sixSingle {
+    font-size: 50px;
+    height: 33%;
+    width: 100%;
+    padding: 0px;
+    border: 0px;
+    overflow: hidden;
+}
+button.sixDouble {
+    font-size: 50px;
+    height: 33%;
+    width: 49.5%;
+    padding: 0px;
+    border: 0px;
+    overflow: hidden;
+}
+button.drinkList {
+    font-size: 30px;
+    background-color:aliceblue;
+    height: 10%;
+    width:100%;
+    border: 0px;
+}
+hr {
+    border: black solid 1.2px;
+    margin: 3px;
+}
+hr.sepBar {
+    border: black solid 2px;
+    margin: 3px;
+}
